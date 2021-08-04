@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArtMoreno
 - 👀 I’m interested in ... Front End Development
-- 🌱 I’m currently learning ... CSS, HTML, JavaScript
+- 🌱 I’m currently learning ... CSS, HTML, JavaScript, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Artmrn@gmail.com, Instagram @ArtMoreno
 
